@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RCfilter
-- 👀 I’m interested in Embedded Systems & FPGA design
-- 🌱 I’m currently learning mixed signal processing and ML for embedded systems
+- 👀 I’m interested in FPGA Design, Machine Learning, and Embedded Systems
+- 🌱 I’m currently learning TI MSP430 and embedded controllers
 - 💞️ I’m looking to collaborate on wiki pages, fixing documentation, fixing bugs
 - 📫 Email me at rriehl@gmu.edu
 
